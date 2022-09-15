@@ -1,2 +1,3 @@
 Welcome to my git page!
-I am just in learning git.
+I am just learning git.
+sample file
